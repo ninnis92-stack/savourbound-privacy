@@ -2,13 +2,13 @@
 
 Last updated: October 21, 2026
 
-SavourBound is made by Naheem Innis (“we,” “us,” or “our”). This Privacy Policy explains what information the SavourBound iPhone app handles and how it is used.
+SavourBound is made by Naheem Innis, an independent developer (“he,” “him,” or “his”). This Privacy Policy explains what information the SavourBound iPhone app handles and how it is used.
 
 ## Information stored on your device
 
 Your cookbooks, recipes, notes, photos, cover art, and app settings are stored on your device.
 
-If iCloud sync is enabled on your device, Apple may sync this personal content through your private iCloud account so it can be restored on another device. Apple operates iCloud under Apple’s own privacy policy. We do not have access to the contents of your private iCloud storage.
+If iCloud sync is enabled on your device, Apple may sync this personal content through your private iCloud account so it can be restored on another device. Apple operates iCloud under Apple’s own privacy policy. He does not have access to the contents of your private iCloud storage.
 
 You can manage iCloud access in iPhone Settings by tapping your name, then iCloud, then SavourBound.
 
@@ -16,13 +16,13 @@ You can manage iCloud access in iPhone Settings by tapping your name, then iClou
 
 When you tap a microphone button, use hands-free cooking mode, or dictate a recipe, SavourBound uses the microphone only while the feature is active.
 
-Speech is converted to text on your device when supported. If Apple’s speech-recognition service is needed, Apple may process the audio or speech data under Apple’s privacy policy. We do not receive or retain microphone recordings.
+Speech is converted to text on your device when supported. If Apple’s speech-recognition service is needed, Apple may process the audio or speech data under Apple’s privacy policy. He does not receive or retain microphone recordings.
 
 ## Photos and camera-based features
 
 When you add a photo, you choose the photos that SavourBound may access through Apple’s photo picker. The app receives only the photos you select.
 
-Ingredient recognition processes the selected image on your device. We do not upload or retain your selected food photos on our servers.
+Ingredient recognition processes the selected image on your device. He does not upload your selected food photos or keep them on any server.
 
 ## Recipe links and imports
 
@@ -42,7 +42,7 @@ If a future version changes Discover so that content is shared through an online
 
 If you subscribe to or purchase an optional SavourBound feature, Apple processes the transaction through the App Store. SavourBound does not receive your full payment-card details. Apple’s privacy policy and App Store terms apply to those transactions.
 
-## What we do not do
+## What SavourBound does not do
 
 SavourBound currently:
 
@@ -50,11 +50,11 @@ SavourBound currently:
 - does not show advertising;
 - does not track you across other apps or websites;
 - does not use analytics or sell personal information; and
-- does not share your personal content with us for advertising or profiling.
+- does not share your personal content with him for advertising or profiling.
 
 ## Children
 
-SavourBound is not directed to children under 13, and we do not knowingly collect personal information from children under 13.
+SavourBound is not directed to children under 13, and he does not knowingly collect personal information from children under 13.
 
 ## Deleting your data
 
@@ -62,11 +62,11 @@ Deleting a cookbook, recipe, note, photo, or other content in SavourBound remove
 
 Deleting the app removes locally stored app data from your device, subject to any copies retained by iCloud backups or Apple’s systems.
 
-For questions about local Discover content or reports, use Privacy & Help in the app or contact us at dbzee15@yahoo.com.
+For questions about local Discover content or reports, use Privacy & Help in the app or contact him at dbzee15@yahoo.com.
 
 ## Changes to this policy
 
-We may update this Privacy Policy when SavourBound’s features or data practices change. The “Last updated” date above identifies the latest version.
+He may update this Privacy Policy when SavourBound’s features or data practices change. The “Last updated” date above identifies the latest version.
 
 ## Contact
 
