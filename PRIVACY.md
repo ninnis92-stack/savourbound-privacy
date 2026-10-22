@@ -1,6 +1,6 @@
 # SavourBound Privacy Policy
 
-Last updated: October 21, 2026
+Last updated: October 22, 2026
 
 SavourBound is made by Naheem Innis, an independent developer (“he,” “him,” or “his”). This Privacy Policy explains what information the SavourBound iPhone app handles and how it is used.
 
@@ -28,15 +28,23 @@ Ingredient recognition processes the selected image on your device. He does not 
 
 If you import a recipe from a website, SavourBound requests the web address you provide so it can retrieve the recipe. The website you visit may receive ordinary request information and may handle it under its own privacy policy.
 
-## Discover content, reports, and blocking
+## Community: recipes and cookbooks you choose to share
 
-The current SavourBound build stores Discover recipes and content reports locally on your device. They are not uploaded to a SavourBound server.
+Nothing you make in SavourBound is shared unless you choose to share it.
 
-SavourBound uses a random device identifier for local content and reporting features. It is not your name, email address, Apple Account, or other direct identity.
+If you share a recipe or a whole cookbook with Community, a copy of it is stored in the SavourBound public library, which runs on Apple's CloudKit service. That copy includes the title, note, ingredients, method, cover design and, if you choose to include them, photos. Everyone who uses SavourBound can see and save shared items.
 
-Content blocks are stored locally on your device. You can manage or remove local Discover content and reports through the app’s Privacy & Help area.
+Shared items are linked to an anonymous identifier that CloudKit creates for your iCloud account in this app. It is not your name, email address or Apple Account, and the app never shows it to other cooks. If you choose a cook name, it is shown with what you share; leave it empty to share anonymously.
 
-If a future version changes Discover so that content is shared through an online service, this policy will be updated before that feature is enabled.
+You can remove anything you've shared at any time, one item at a time or all at once, from the app's Settings & help. Removing it takes it out of the public library; your own copy stays on your device.
+
+Before sharing for the first time, you agree to the Community rules: share only what you have the right to share, and no offensive, hateful or adult content, spam or unsafe food advice. Objectionable content is not tolerated.
+
+## Reports and blocking
+
+You can report any shared recipe or cookbook. A report records the item and the reason you chose, linked only to the anonymous identifier above. Reports are reviewed by the developer, and content that breaks the rules is removed. Anything reported by several people is hidden automatically until it is reviewed.
+
+Blocking a cook hides everything they share. Blocks are stored only on your device.
 
 ## Purchases
 
@@ -50,7 +58,7 @@ SavourBound currently:
 - does not show advertising;
 - does not track you across other apps or websites;
 - does not use analytics or sell personal information; and
-- does not share your personal content with him for advertising or profiling.
+- does not share your personal content with him for advertising or profiling; content you choose to share with Community is used only to show it to other cooks.
 
 ## Children
 
@@ -62,7 +70,7 @@ Deleting a cookbook, recipe, note, photo, or other content in SavourBound remove
 
 Deleting the app removes locally stored app data from your device, subject to any copies retained by iCloud backups or Apple’s systems.
 
-For questions about local Discover content or reports, use Privacy & Help in the app or contact him at dbzee15@yahoo.com.
+To remove what you've shared, use Settings & help in the app. For anything else about shared content or reports, contact him at dbzee15@yahoo.com.
 
 ## Changes to this policy
 
