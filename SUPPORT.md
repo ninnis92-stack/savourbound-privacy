@@ -4,7 +4,7 @@ SavourBound is a recipe app that keeps your cooking in beautiful cookbooks you c
 
 ## Get help
 
-Email **dbzee15@yahoo.com** with your question, the device you're using and what happened. You'll usually hear back within two working days.
+Email **savourbound@gmail.com** with your question, the device you're using and what happened. You'll usually hear back within two working days.
 
 ## Common questions
 

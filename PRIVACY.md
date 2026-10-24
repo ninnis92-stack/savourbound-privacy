@@ -38,4 +38,4 @@ Your personal library remains on your device and in your private iCloud until yo
 
 ## Contact
 
-For privacy questions, report follow-up, or a request to remove report information, email [dbzee15@yahoo.com](mailto:dbzee15@yahoo.com).
+For privacy questions, report follow-up, or a request to remove report information, email [savourbound@gmail.com](mailto:savourbound@gmail.com).

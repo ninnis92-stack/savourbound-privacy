@@ -27,9 +27,9 @@ SavourBound is made by Naheem Innis, an independent developer (“he,” “him,
 - A basic word check runs when you share. It can't catch everything, so reports matter.
 
 ## Appeals
-If your post was removed or your sharing was turned off and you think that was a mistake, email **dbzee15@yahoo.com** within 14 days. Say what you shared and why you think it follows the rules. The decision will be looked at again, and you will get an answer by email.
+If your post was removed or your sharing was turned off and you think that was a mistake, email **savourbound@gmail.com** within 14 days. Say what you shared and why you think it follows the rules. The decision will be looked at again, and you will get an answer by email.
 
 ## Contact
-Questions, safety concerns, or something to report outside the app: **dbzee15@yahoo.com**.
+Questions, safety concerns, or something to report outside the app: **savourbound@gmail.com**.
 
 If you or someone else is in immediate danger, contact your local emergency services.
